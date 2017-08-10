@@ -1,5 +1,6 @@
 body {
 	background-image: url("../images/skyscraper.png");
+	box-sizing: border-box;
 }
 
 header {
@@ -107,18 +108,18 @@ img {
     border-color: #dddddd;
 }
 
-/*.icons {
-	max-width: 30%;
-    height: 50px;
+.icons {
+	max-width: 95%;
+    height: auto;
     float: left;
     margin-right: 10px;
-}*/
+}
 
 .clear {
     clear: both;
 }
 
-footer {
+.footer {
     position: absolute;
   	right: 0;
   	bottom: 0;

@@ -74,6 +74,14 @@ img {
     margin-right: 10px;
 }
 
+.icons {
+	width: 95%;
+	height: auto;
+	float: left;
+}
+
+
+
 #about {
 	position: relative;
 	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
@@ -111,8 +119,8 @@ img {
 }
 
 footer {
-    /* position: absolute; */
-    /* bottom: 100px; */
+    /*position: fixed;*/
+    bottom: 0%;
     padding: 40px;
     font-size: 12px;
     text-align: center;

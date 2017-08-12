@@ -1,1 +1,0 @@
- In the `images` folder, save the images you plan on using (like your profile image, the placeholder images for the portfolio, and the social icon images).

@@ -24,7 +24,7 @@ h1 {
     margin-left: 150px;
     padding: 25px;
     position: absolute;
-    top: 0px;
+    top: -23px;
 }
 
 h2 {
@@ -95,8 +95,8 @@ img {
 	font-size: 22px;
     float: left;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    height: 150px;
-    width: 25%;
+    height: 250px;
+    width: 35%;
     margin-left: 1%;
     padding: 30px;
     color: #4aaaa5;
@@ -123,7 +123,7 @@ img {
 .footer {
     position: absolute;
   	right: 0;
-  	bottom: 0;
+  	/*bottom: 0;*/
   	left: 0;
     padding: 40px;
     font-size: 12px;
